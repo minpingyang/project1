@@ -1,0 +1,5 @@
+/Users/minpingyang/Projects/project1/project1/bin/Debug/project1.exe
+/Users/minpingyang/Projects/project1/project1/bin/Debug/project1.pdb
+/Users/minpingyang/Projects/project1/project1/obj/x86/Debug/project1.csproj.CoreCompileInputs.cache
+/Users/minpingyang/Projects/project1/project1/obj/x86/Debug/project1.exe
+/Users/minpingyang/Projects/project1/project1/obj/x86/Debug/project1.pdb
